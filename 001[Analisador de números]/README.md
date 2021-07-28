@@ -18,8 +18,9 @@
 	</li>
 
 </ol>
+
 ## Exemplo de entrada
-<pre><code>12, 24, 70, 35, 11</code>/<pre>
+<pre><code>12, 24, 70, 35, 11</code></pre>
 
 ## Exemplo de saída:
 <pre><code>
